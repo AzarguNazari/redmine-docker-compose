@@ -1,4 +1,4 @@
-# readmine docker compose
+# redmine docker compose
 ```
 version: '3.1'
 
